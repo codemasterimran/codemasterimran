@@ -1,6 +1,7 @@
 ### Hi there 👋
-
-...
+ I AM IMRAN WANi
+ A WEB DEVELOPER , SOFTWARE DEVELOPER AND CLOUD ENTHUSIAST
+ YOU CAN HAVE HA LOOK AT MY PORTFOLIO WEBSITE :- portfolio-website-rosy-beta.vercel.app
 -->
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_imranwani_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imran-wani-8644b620a) 
